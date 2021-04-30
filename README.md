@@ -1,4 +1,4 @@
-# Visualização Climática :file_folder:
+# Visualizador Climático :file_folder:
 :bookmark_tabs: **Reproduzindo a cópia de uma Extensão climática do Google Chrome**
 
 ### :information_source: Especificações do Projeto:
