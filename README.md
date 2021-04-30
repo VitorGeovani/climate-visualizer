@@ -9,13 +9,13 @@
 
 <img align="center" alt="icon-js" height="30" width="40" src="visual-studio-code-logo-svg-vector.svg" style="max-width:100%;"></img> **Visual Studio Code -  (https://code.visualstudio.com/Download)**
 
-<img align="center" alt="icon-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width:100%;"></img> **HTML5**
+<img align="center" alt="icon-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width:100%;"></img> **HTML5 - (https://developer.mozilla.org/pt-BR/docs/Web/Guide/HTML/HTML5)**
 
-<img align="center" alt="icon-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="max-width:100%;"></img> **Java Script**
+<img align="center" alt="icon-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="max-width:100%;"></img> **Java Script - (https://www.javascript.com/)**
 
-<img align="center" alt="icon-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="max-width:100%;"></img> **CSS3**
+<img align="center" alt="icon-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="max-width:100%;"></img> **CSS3 - (https://developer.mozilla.org/pt-BR/docs/Web/CSS)**
 
-<img align="center" alt="icon-js" height="30" width="40" src="json-file.svg" style="max-width:100%;"></img> **JSON**
+<img align="center" alt="icon-js" height="30" width="40" src="json-file.svg" style="max-width:100%;"></img> **JSON - (https://json.org/json-pt.html)**
 
 <img align="center" alt="icon-js" height="30" width="40" src="jquery.svg" style="max-width:100%;"></img> **JQuery - (https://jquery.com/)**
 
