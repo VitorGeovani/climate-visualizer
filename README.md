@@ -17,6 +17,9 @@
 
 <img align="center" alt="icon-js" height="30" width="40" src="json-file.svg" style="max-width:100%;"></img> **JSON**
 
+<img align="center" alt="icon-js" height="30" width="40" src="jquery.svg" style="max-width:100%;"></img> **JQuery**
+
+
 ### :information_source: Reforçando, acesse e baixe a Extensão do George para Google Chrome. Isso o ajuda bastante! (https://chrome.google.com/webstore/detail/microweather/mlkbifdobkhikfmhopopgdfikiilbhio/related)
 
 <p align="center">
