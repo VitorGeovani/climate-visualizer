@@ -16,3 +16,9 @@
 <img align="center" alt="icon-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="max-width:100%;"></img> **CSS3**
 
 <img align="center" alt="icon-js" height="30" width="40" src="json-file.svg" style="max-width:100%;"></img> **JSON**
+
+### :information_source: Reforçando, acesse e baixe a Extensão do George para Google Chrome (https://chrome.google.com/webstore/detail/microweather/mlkbifdobkhikfmhopopgdfikiilbhio/related)
+
+<p align="center">
+  <img src="V.png">
+  </p>
