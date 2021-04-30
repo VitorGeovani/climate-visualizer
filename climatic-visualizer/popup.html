@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Visualizador Climático</title>
+    <link href="css/main.css" rel="stylesheet">
+    <link href="css/slick.css" rel="stylesheet">
+
+    <script type="text/javascript" src="js/jquery.js"></script>
+    <script type="text/javascript" src="js/slick.js"></script>
+    <script type="text/javascript" src="js/helper.js"></script>
+    <script type="text/javascript" src="js/script.js"></script>
+</head>
+<body class="micro-weather-knbgahoibccgfedbeamjlaipedimpfeh">
+    <!-- <input type="text" id="search" placeholder="Pressione ENTER para pesquisar" /> -->
+    <span class="title"><strong>Temperatura atual de São Paulo</strong></span>
+
+    <div class="template" id="canvas-template">
+        <div class="popup-icon"></div>
+        <div class="name">{name}</div>
+        <div class="description">{description}</div>
+        <div class="temp"><img data-src="{icon}" class="weather-icon" /> {temp}</div>
+        <div class="pressure">Pressão: {presure}</div>
+        <div class="humidity">Umidade: {humidity}</div>
+        <div class="temp-max">Temperatura máxima: {temp_max}</div>
+        <div class="temp-min">Temperatura mínima: {temp_min}</div>
+    </div>
+
+    <div class="template" id="forcast-template">
+        <div class="single-slick">
+          <div class="forcast-date">{time}</div>
+          <div class="forcast-temp"><img data-src="{icon}" class="forcast-weather-icon" /> {temp}</div>
+          <div class="forcast-temp-max">Máxima: {temp_max}</div>
+          <div class="forcast-temp-min">Mínima: {temp_min}</div>
+        </div>
+    </div>
+
+    <section class="y-chrome-ext-canvas">
+    </section>
+
+  <section class="forcast-container">
+  </section>
+    
+    <section class="settings">
+        <a href="#" class="settings__link">
+            <img src="icons/settings.png" alt="Settings" class="settings__icon" />
+            <span>Opções</span>
+        </a>
+        <div class="settings__area">
+            <div class="control">
+                <label>Unidade:</label>
+                <select class="settings__units">
+                    <option value="">Selecione a unidade..</option>
+                    <option value="metric">Celsius</option>
+                    <option value="imperial">Fahrenheit</option>
+                </select>
+            </div>
+        </div>
+    </section>
+
+</body>
+</html>
