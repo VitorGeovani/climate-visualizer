@@ -7,7 +7,7 @@
 
 ## 📌 Recursos usados neste projeto: 
 
-<img align="center" alt="icon-js" height="30" width="40" src="visual-studio-code-logo-svg-vector.svg" style="max-width:100%;"></img> **Visual Studio Code**
+<img align="center" alt="icon-js" height="30" width="40" src="visual-studio-code-logo-svg-vector.svg" style="max-width:100%;"></img> **Visual Studio Code -  (https://code.visualstudio.com/Download)**
 
 <img align="center" alt="icon-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width:100%;"></img> **HTML5**
 
@@ -17,7 +17,7 @@
 
 <img align="center" alt="icon-js" height="30" width="40" src="json-file.svg" style="max-width:100%;"></img> **JSON**
 
-<img align="center" alt="icon-js" height="30" width="40" src="jquery.svg" style="max-width:100%;"></img> **JQuery**
+<img align="center" alt="icon-js" height="30" width="40" src="jquery.svg" style="max-width:100%;"></img> **JQuery - (https://jquery.com/)**
 
 
 ### :information_source: Reforçando, acesse e baixe a Extensão do George para Google Chrome. Isso o ajuda bastante! (https://chrome.google.com/webstore/detail/microweather/mlkbifdobkhikfmhopopgdfikiilbhio/related)
