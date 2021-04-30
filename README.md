@@ -20,5 +20,11 @@
 ### :information_source: Reforçando, acesse e baixe a Extensão do George para Google Chrome (https://chrome.google.com/webstore/detail/microweather/mlkbifdobkhikfmhopopgdfikiilbhio/related)
 
 <p align="center">
+  <img src="george.png">
+  </p>
+
+
+
+<p align="center">
   <img src="V.png">
   </p>
